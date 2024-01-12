@@ -1,0 +1,10 @@
+.red{
+    background-color: red;
+}
+.wahlkarte {
+    margin: auto;
+    margin-top: 15px;
+    border: 2px solid gold;
+    padding:15px;
+    width: 50%;
+}
